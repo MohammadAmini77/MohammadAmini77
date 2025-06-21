@@ -3,7 +3,7 @@ Hello, My name is Mo Amini
 
 
 
-A dedicated researcher with a fervent passion for Artificial Intelligence (AI) and Comunication Systems.
+A dedicated researcher with a passion for Artificial Intelligence (AI).
 ------------------------------------------------------------------------------------------------------------------
 
 I am a researcher in machine learning and deep learning, with interest in applying these technologies to enhance commercial applications and improve everyday life. My focus includes use cases in areas such as gaming and healthcare, where machine learning and deep learning can be game changing. 💡 🔬 As a researcher, my goal is to develop solutions and techniques that make people's lives easier and more efficient worldwide. I try to push boundaries, learn new concepts in technology, and give novel ideas that address real-world challenges and improve quality of life.
