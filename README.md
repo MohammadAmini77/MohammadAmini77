@@ -11,7 +11,6 @@ I am a researcher in machine learning and deep learning, with interest in applyi
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mohammad.aminiiii98@gmail.com](mailto:mohammad.aminiiii98@gmail.com)
-* 🌐  You can find more about me [here](https://mohammadamini1998.github.io/MohammadAmini.github.io/)
 
 ### Skills
 
